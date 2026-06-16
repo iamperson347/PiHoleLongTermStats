@@ -1,5 +1,5 @@
 ## Author :  Davis T. Daniel
-## PiHoleLongTermStats v.0.2.4
+## PiHoleLongTermStats v.0.2.5
 ## License :  MIT
 
 import sqlite3

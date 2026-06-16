@@ -1,4 +1,4 @@
-# Pi Hole Long Term Statistics v.0.2.4
+# Pi Hole Long Term Statistics v.0.2.5
 
 <div align="center">
 

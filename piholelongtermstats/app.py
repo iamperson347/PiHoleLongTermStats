@@ -1,6 +1,7 @@
 ## Author :  Davis T. Daniel
-## PiHoleLongTermStats v.0.2.4
+## PiHoleLongTermStats v.0.2.5
 ## License :  MIT
+
 
 import os
 import gc
@@ -27,7 +28,7 @@ from piholelongtermstats.plot import (
     generate_top_allowed_domains,
 )
 
-__version__ = "0.2.4"
+__version__ = "0.2.5"
 
 # logging setup
 logging.basicConfig(
